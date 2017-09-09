@@ -1,0 +1,4 @@
+TestCases.TestSuites.HomePage_Elements_Verification
+TestCases.TestSuites.HomePage_CcyList_Verification
+TestCases.TestSuites.Login_Verification_WithBlankDetails
+TestCases.TestSuites.Login_Verification_WithValidData
